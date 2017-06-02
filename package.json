@@ -1,0 +1,26 @@
+{
+  "name": "poi-converter-node",
+  "version": "1.0.0",
+  "jarVersion": "1.0",
+  "description": "A tool to convert office file to other format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine spec/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shushanfx/poi-converter-node.git"
+  },
+  "keywords": [
+    "poi"
+  ],
+  "author": "shushanfx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shushanfx/poi-converter-node/issues"
+  },
+  "homepage": "https://github.com/shushanfx/poi-converter-node#readme",
+  "dependencies": {
+    "exec": "^0.2.1"
+  }
+}
