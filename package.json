@@ -1,7 +1,7 @@
 {
     "name": "poi-converter-node",
     "version": "1.0.1",
-    "jarVersion": "1.0",
+    "jarVersion": "1.1",
     "description": "A tool to convert office file to other format.",
     "main": "index.js",
     "scripts": {
